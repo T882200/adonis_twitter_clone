@@ -1,6 +1,5 @@
 # tweetr-api
 
-> API for a Twitter clone built with AdonisJS. The repo for the frontend is available at [https://github.com/ammezie/tweetr-app](https://github.com/ammezie/tweetr-app)
 
 ## Getting Started
 
