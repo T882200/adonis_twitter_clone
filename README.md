@@ -55,3 +55,7 @@ adonis serve --dev
 ```
 
 and visit [http://127.0.0.1:3333](http://127.0.0.1:3333) to see the application in action.
+
+
+
+## TODO - re-deploy the api to heroku. .env make E_MISSING_APP_KEY error, and the constant response is HTTP 500
